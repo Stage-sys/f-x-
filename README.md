@@ -10,4 +10,4 @@
 
 更多信息
 =======
-见本项目wiki
+见本项目[wiki](https://github.com/Stage-sys/tinyOS/wiki)
