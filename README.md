@@ -3,9 +3,12 @@
 
 简介
 ===
-FXBOX是为Casio FXCG50计算器制作的tiny kernel.  
-FXBOX从插件(ADD-IN)启动,会破坏掉原OS数据.  
+FXBOX是为Casio FXCG50计算器制作的从插件启动的tiny kernel.  
 
 编译
 ===
 请使用[PRIZMSDK](https://github.com/Jonimoose/libfxcg)编译
+
+更多信息
+=======
+见本项目WiKi
