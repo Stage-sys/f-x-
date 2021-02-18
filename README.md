@@ -3,7 +3,7 @@
 
 简介
 ===
-FXBOX是为Casio Prizm计算器制作的tiny kernel.  
+FXBOX是为Casio FXCG50计算器制作的tiny kernel.  
 FXBOX从插件(ADD-IN)启动,会破坏掉原OS数据.  
 
 编译
