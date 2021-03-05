@@ -15,4 +15,4 @@ To build the project, you must use a GCC toolchain configured for SuperH targets
 
 More
 ====
-See [WIKI]().   
+See [WIKI](https://github.com/Stage-sys/fxCore/wiki).   
